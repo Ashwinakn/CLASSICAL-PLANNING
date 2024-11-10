@@ -1,11 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+
 <h3>Name: ASHWINA K N       </h3>
 <h3>Register Number: 212223230025</h3>
-
-# Aim: 
-<p>
-    To Implement Classical Planning Algorithm
-</p>
 
 # Algorithm or Steps Involved:
 <ol>
@@ -57,8 +53,6 @@ print(plan)
 
 ## Program:
 ```
-Name: Abdullah R 
-Register Number: 212223230004
 
 def is_goal_state(current_state, goal_state):
     return current_state == goal_state
